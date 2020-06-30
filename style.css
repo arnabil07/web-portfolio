@@ -1,0 +1,123 @@
+body{
+    margin: 0;
+    font-family: 'Noto Sans', sans-serif;
+}
+                        /* Top-area */
+
+h1{
+    font-size: 50px;
+}
+.orange-highlight {
+    color: orange;
+}
+.top-area .left-area{
+    width: 50%;
+    float: left;
+    margin-left: ;
+    padding-right: ;
+}
+.right-area p{
+    color: #696969;
+}
+.left-area .link-button{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient( salmon,tomato);
+    color: white;
+    border-radius: 5px;
+}
+.top-area .right-area{
+    width: 50%;
+    float: right;
+    margin-right: ;
+    padding-left: ;
+}
+.right-area img{
+    width: 100%;
+}
+.top-area{
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 600px;
+}
+
+                        /* Middle-area */
+.middle-area{
+    height: 500px;
+}
+
+.left-area2  p{
+    color: #696969;
+}
+.right-area2  .link-button{
+    text-decoration: none;
+    padding: 10px 30px;
+    background-image: linear-gradient( salmon,tomato);
+    color: white;
+    border-radius: 5px;
+}
+.middle-area .left-area2 {
+    width: 50%%;
+    float: left;
+  
+}
+.left-area2  img{
+    width: 300px;
+    height: 200px;
+}
+ 
+.middle-area .right-area2 {
+    width: 50%%;
+    float: right;
+    
+}
+.middle-area{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+                            /* Last-area */
+.last-area{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    
+}
+ .left-area3 {
+    float: right;
+    width: 43%;
+    margin-right: 2%;
+    margin; ;
+}
+.right-area3 {
+    float: left;
+    width: 43%;
+    margin-left: 2%;
+}
+
+.single-experience {
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 6px;
+    height: 60%;
+    background-color: white;
+}
+#fullstack {
+    border-left: 7px solid;
+    border-image: linear-gradient(lightsalmon, tomato);
+    border-image-slice: 1;
+    
+}
+#baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+      
+}
+                        /* Footer-area */
+.footer-area{
+    text-align: center;
+    font-size: 14px;
+}                        
